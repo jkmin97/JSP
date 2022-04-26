@@ -8,6 +8,10 @@ https://continuous-fontina-dbc.notion.site/New_Day_02_JSP-63381ee2fee04d528c47f5
 
 Day02_JSP
 
-https://continuous-fontina-dbc.notion.site/New_Day_05_JSP-c6ad28f5747342428fe365e774221be2
+https://continuous-fontina-dbc.notion.site/New_Day_04_JSP-c6ad28f5747342428fe365e774221be2
+
+Day04_JSP
+
+https://continuous-fontina-dbc.notion.site/New_Day_05_JSP-face95790527452f904274f6a4c2ac2d
 
 Day05_JSP
