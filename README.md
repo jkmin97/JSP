@@ -15,3 +15,6 @@ Day04_JSP
 https://continuous-fontina-dbc.notion.site/New_Day_05_JSP-face95790527452f904274f6a4c2ac2d
 
 Day05_JSP
+
+https://continuous-fontina-dbc.notion.site/New_Day_06_JSP-06185c5f329b43d5be1ee609f4ded800
+
