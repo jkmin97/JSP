@@ -18,3 +18,8 @@ Day05_JSP
 
 https://continuous-fontina-dbc.notion.site/New_Day_06_JSP-06185c5f329b43d5be1ee609f4ded800
 
+Day06_JSP
+
+https://continuous-fontina-dbc.notion.site/New_Day_08_JSP-d43bf1341e344607a3676bc9ac803394
+
+Day08_JSP
