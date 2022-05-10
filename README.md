@@ -31,3 +31,7 @@ Day09_JSP
 https://continuous-fontina-dbc.notion.site/New_Day_10_JSP-6277aee6093e46a58b7b3499fbd2289b
 
 Day10_JSP
+
+https://continuous-fontina-dbc.notion.site/New_Day_13_JavaScript-ac2c773a9e8d40c6bf919f93df16a9bf
+
+Day13_jQuery
